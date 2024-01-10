@@ -43,7 +43,7 @@ Análise de Preços:
 
 Interação com o Usuário:
 
--Incorporação de filtros interativos para permitir aos usuários explorar os dados com base em critérios específicos, como titulo, esrtrela.
+-Incorporação de filtros interativos para permitir aos usuários explorar os dados com base em critérios específicos, como titulo, estrela.
 
 ![image](https://github.com/raylasilva/WebScraping/assets/77173258/80634536-8f9d-4100-9cb9-fbed84565542)
 
